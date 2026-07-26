@@ -1,0 +1,9 @@
+crewai
+requests
+pydantic
+io
+typing
+subprocess
+json
+sys
+os
